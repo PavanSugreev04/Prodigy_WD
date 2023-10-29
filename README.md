@@ -57,3 +57,4 @@ Follwing technologies have been used at the core of this application to make it 
 ### Deployment Details
 
 The website is deployed using the free hosting provided by **Vercel**
+Deployed web link (https://pavansugreev04.github.io/)
