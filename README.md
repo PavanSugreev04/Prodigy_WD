@@ -56,5 +56,5 @@ Follwing technologies have been used at the core of this application to make it 
 
 ### Deployment Details
 
-The website is deployed using the free hosting provided by **Vercel**
+The website is deployed using the free hosting provided by **Vercel**<br>
 Deployed web link ((https://prodigy-wd-03-pi.vercel.app/)
